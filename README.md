@@ -1,4 +1,4 @@
-# Hyperlocal-News-Anomaly-Detection-and-Source-Attribution-with-Application-Hosted-on-GCP-AWS
+# Hyperlocal-News-Anomaly-Detection-and-Source-Attribution-with-Application-Hosted-on-AWS
 
 📰 Hyperlocal News Anomaly Detection & Source Discrepancy System
 
