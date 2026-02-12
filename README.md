@@ -27,33 +27,33 @@ AWS Deployment
 
 # System Architecture
 Articles.xlsx
-      │
-      ▼
+  
+   
 Text Cleaning & Header Location Extraction
-      │
-      ▼
+      
+      
 NER Location Extraction (spaCy)
-      │
-      ▼
+      
+      
 Sentiment Analysis (VADER)
-      │
-      ▼
+      
+      
 Topic Modeling (LDA)
-      │
-      ▼
+      
+      
 Isolation Forest (Linguistic Anomaly Detection)
-      │
-      ▼
+      
+      
 TF-IDF + Logistic Regression
 (Source Discrepancy Detection)
-      │
-      ▼
+      
+      
 Final_Anomaly = Linguistic OR Source Mismatch
-      │
-      ▼
+      
+      
 Streamlit Dashboard
-      │
-      ▼
+      
+      
 AWS EC2 Hosting
 
 # Technologies Used
